@@ -5,7 +5,7 @@
 
 
 ## Technologies
-### Languages :
+### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvanronchi&layout=compact)](https://www.linkedin.com/in/edvanronchi)
 
-### Libraries & Framework :
+### Libraries & Frameworks:
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://www.linkedin.com/in/edvanronchi)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://www.linkedin.com/in/edvanronchi)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://www.linkedin.com/in/edvanronchi)
