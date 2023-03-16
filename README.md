@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Edvan Ronchi
+# 👋 Hi there, I’m Edvan
 
 - 💞️  Passionate about developing code
 - 🌱  I’m currently learning software deployment automation (with Kubernetes and Docker), CI/CD and event streaming (with Kafka)
